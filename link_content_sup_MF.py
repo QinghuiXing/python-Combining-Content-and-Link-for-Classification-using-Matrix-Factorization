@@ -1,3 +1,8 @@
+'''
+implemented by Qinghui Xing
+
+'''
+
 import sklearn.decomposition.pca as pca
 import numpy as np
 import matplotlib.pyplot as plt
