@@ -21,6 +21,6 @@ Let me explain it in detail:I ran my code on Cora dataset and tried a dozen of d
 for example, alpha, learning rate, lamda, and expecially the initializations of U, V, Z and W which have a significant impact on performance.
 And there are two kind of bad results:<br>
 1. gradients explodes<br>
-2. loss converges in a relatively high value<br>
+2. loss stops in a relatively high value<br>
 
 The reasons are still not clear to me......
